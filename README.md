@@ -8,6 +8,10 @@ pre-requisite:<br>
   import numpy as np   #pip install numpy<br>
   import pandas as pd   #pip install pandas <br>
 <br>
+2024_TEOS_XML_01A.zip<br>
+This file has all xml file<br>
+<br>
+<br>
 static.py file:<br>
   This file has variable declared.<br>
   variable 'attr_chain' i have stored xml tags as list of strings<br>
